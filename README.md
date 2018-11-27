@@ -8,7 +8,11 @@
 
 * 1x https://www.reichelt.de/my/1513530
 
-[Software je nach Projekt](https://github.com/jp112sdl) von Jérôme
+[Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
+
+[Software](https://github.com/jp112sdl/HB-UNI-SenAct-8-8) von Jérôme
+oder
+[Software](https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-MOD-Re-8/HM-MOD-Re-8.ino) von Jérôme
 
 ![complete](Images/HM-MOD-Re-8-1.jpg)
 ![complete](Images/HM-MOD-Re-8-2.jpg)
