@@ -1,18 +1,18 @@
 # HM-MOD-Re-8
-# 8x 6A Schaltkontakte 
+# 8 Schaltkontakte 6A 230v
 
-## benötigte Hardware
+## benÃ¶tigte Hardware
 * 1x Arduino Pro Mini **ATmega328P (3.3V/8MHz)**
 * 1x CC1101 Funkmodul **(868 MHz)**
-* 1x FTDI Adapter (wird nur zum Flashen benötigt)
+* 1x FTDI Adapter (wird nur zum Flashen benÃ¶tigt)
 
 * 1x https://www.reichelt.de/my/1513530
 
 [Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
 
-[Software](https://github.com/jp112sdl/HB-UNI-SenAct-8-8) von Jérôme
+[Software](https://github.com/jp112sdl/HB-UNI-SenAct-8-8) von JÃ©rÃ´me
 oder
-[Software](https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-MOD-Re-8/HM-MOD-Re-8.ino) von Jérôme
+[Software](https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-MOD-Re-8/HM-MOD-Re-8.ino) von JÃ©rÃ´me
 
 ![complete](Images/HM-MOD-Re-8-1.jpg)
 ![complete](Images/HM-MOD-Re-8-2.jpg)
